@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadx02&label=Profile%20views&color=0e75b6&style=flat" alt="hammadx02" /> </p>
 
 # 💫 About Me:
-💻 The tech I'm interested Flutter/ML/AR etc.<br><br>💬 Ask me about **Flutter, Dart and Firebase**<br><br>✨ I'm learning Flutter.<br><br>📫 How to reach me hammadaali02@gmail.com<br><br>📄 Know about my experiences www.linkedin.com/in/hammadx02
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: hammadaali02@gmail.com
+- 😄 My work: https://hammadx02.github.io/projects/
 
 
 ## 🌐 Socials:
