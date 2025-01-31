@@ -32,4 +32,4 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadx02&theme=gotham)](https://github.com/hammadx02/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hammadx02&&theme=gotham)](https://git.io/streak-stats)
 
-Open Source Contributor from <b>Pakistan<b> 💚 
+<h4 align="center">Open Source Contributor from <b>Pakistan<b> 💚 
