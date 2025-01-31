@@ -9,8 +9,9 @@
 - 🔭 Currently working with Flutter
 - 🌱 Learning Backend Development
 - 💬 Feel free to ask me anything about Flutter
-- 📫 Reach me at: [hammadaali02@gmail.com](mailto:hammadaali02@gmail.com)
-- 😄 Check out my work: [Projects](https://hammadx02.github.io/projects/)
+- 👀 Wanna see, what I do? [Portfolio](https://bit.ly/hammadaali)
+- 📜 Take a look at my [Resume](https://drive.google.com/file/d/1oUxBJvZ4D5Mr_K02qv5UvR2QWNPZUAsg/view?usp=share_link)
+- 📫 Reach me at: [hammadaali.dev@gmail.com](mailto:hammadaali.dev@gmail.com)
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hammadaali19) 
@@ -28,4 +29,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadx02&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadx02&theme=gotham)](https://github.com/hammadx02/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hammadx02&&theme=gotham)](https://git.io/streak-stats)
+
+Open Source Contributor from <b>Pakistan<b> 💚 
