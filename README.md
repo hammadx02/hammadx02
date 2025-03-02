@@ -10,7 +10,7 @@
 - 🌱 Learning Backend Development
 - 💬 Feel free to ask me anything about Flutter
 - 👀 Wanna see, what I do? [Portfolio](https://bit.ly/hammadaali)
-- 📜 Take a look at my [Resume](https://drive.google.com/file/d/1U65Vjfxm55axY-Ooh0mOaqY5rpVyeEK5/view?usp=share_link)
+- 📜 Take a look at my [Resume](https://drive.google.com/file/d/1FGONLnHMvUhZYSd4BF6axoz0FC_LPfp2/view?usp=share_link)
 - 📫 Reach me at: [hammadaali.dev@gmail.com](mailto:hammadaali.dev@gmail.com)
 
 ## 🌐 Connect with Me:
