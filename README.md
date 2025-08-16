@@ -41,7 +41,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadx02&theme=gotham)](https://github.com/hammadx02/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hammadx02&&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadxcodes&theme=gotham)](https://github.com/hammadxcodes/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hammadxcodes&&theme=gotham)](https://git.io/streak-stats)
 
 <h4 align="center">Open Source Contributor from <b>Pakistan<b> 💚 
