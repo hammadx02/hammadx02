@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6ff2a5&height=220&section=header&text=Hammad%20Ali%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Engineer%20%E2%80%A2%20Building%20Scalable%20Android%20and%20iOS%20Apps&descSize=17&descAlignY=60&animation=fadeIn" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6ff2a5&height=220&section=header&text=Hammad%20Ali%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" />
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=safari&logoColor=white)](https://hammadaali.vercel.app)
