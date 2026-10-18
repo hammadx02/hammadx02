@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6ff2a5&height=220&section=header&text=Hammad%20Ali%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Engineer%20%7C%20Building%20Scalable%20Android%20%26%20iOS%20Apps&descSize=18&descAlignY=60&animation=fadeIn" alt="Hammad Ali Shah" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6ff2a5&height=220&section=header&text=Hammad%20Ali%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Engineer%20%E2%80%A2%20Building%20Scalable%20Android%20and%20iOS%20Apps&descSize=17&descAlignY=60&animation=fadeIn" alt="Banner" />
 
 <img src="https://komarev.com/ghpvc/?username=hammadx02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <a href="https://github.com/hammadx02?tab=repositories"><img src="https://img.shields.io/github/stars/hammadx02?style=flat&logo=github&color=6ff2a5&labelColor=191a1f" alt="Stars" /></a>
@@ -24,6 +24,24 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 ---
 
 ## 🚀 Featured Projects
+
+### 🧾 POS Mobile App
+
+> Point of Sale · Flutter · REST APIs · POS Integration
+>
+> A restaurant POS mobile app designed to support day-to-day restaurant operations and order management.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smsami.kkr)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/khalid-khan-restaurant/id6749230891)
+
+### 🖥️ E-Retail Point
+
+> POS Admin Dashboard · Flutter · REST APIs
+>
+> A mobile admin dashboard for managing and monitoring POS operations.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smsami.eretailpointdashboard1&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/e-retail-point/id6670726615)
 
 ### 📝 Noteable AI
 
@@ -106,11 +124,7 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=hammadx02&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadx02&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com/?user=hammadx02&theme=gotham&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadx02&theme=react-dark&hide_border=true&area=true&color=0e75b6&line=6ff2a5&point=ffffff" alt="Contribution Graph" width="100%" />
 
 <br/>
 
