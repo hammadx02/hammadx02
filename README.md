@@ -23,8 +23,6 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 
 ### 🧾 POS Mobile App
 
-> Point of Sale · Flutter · REST APIs · POS Integration
->
 > A restaurant POS mobile app designed to support day-to-day restaurant operations and order management.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smsami.kkr)
@@ -32,8 +30,6 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 
 ### 🖥️ E-Retail Point
 
-> POS Admin Dashboard · Flutter · REST APIs
->
 > A mobile admin dashboard for managing and monitoring POS operations.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smsami.eretailpointdashboard1&hl=en)
@@ -41,8 +37,6 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 
 ### 📝 Noteable AI
 
-> **Generative AI · 2025** · Flutter · Firebase
->
 > Effortless AI-powered notes that turn messy thoughts into structured, searchable knowledge
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/notable-ai-smart-notes/id6670705567)
@@ -51,8 +45,6 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 
 ### 💊 Medimate AI
 
-> **Generative AI · 2024** · Flutter · Firebase
->
 > AI health companion that tracks medications and history, flags potential risks, and gives personalized guidance
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/medimate-ai/id6752987620)
@@ -61,8 +53,6 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 
 ### 🧾 TaxCorp Australia
 
-> **Fintech · 2023** · Flutter · REST APIs
->
 > Tax filing made simple, with guided steps and clear document handling
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taxcorps)
@@ -72,8 +62,6 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 
 ### 🧱 Wall AI
 
-> **Generative AI · 2025** · Flutter · REST APIs
->
 > Smart image-based quoting: get an AI price estimate from a single photo
 
 ---
@@ -125,7 +113,4 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6ff2a5,100:0e75b6&height=140&section=footer" alt="Footer" />
-
-<sub>Open Source Contributor from <b>Pakistan</b> 💚</sub>
-
 </div>
