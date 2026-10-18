@@ -60,24 +60,19 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 
 ---
 
-### 🧱 Wall AI
-
-> Smart image-based quoting: get an AI price estimate from a single photo
-
----
-
 ## 🗂️ More Projects
 
 | App | Description | Stack |
 | --- | --- | --- |
-| 🛍️ **BigWin** | Online shopping with browsing, cart, and checkout done right | Flutter · Payments |
-| 🚚 **MBMC Logistics** | Logistics management with live tracking and simple dispatch | Flutter · Maps |
-| 🐔 **CQT** | Chicken Quality Tracker, with structured inspections and reporting | Flutter · REST API |
-| 🩸 **Pantho** | Drop Blood Bank, an online blood donation and collection app | Flutter · REST API |
-| 💧 **Hydreau** | Water intake tracking with gentle reminders | Flutter · Hive |
+| 🧱 **Wall AI** | AI-powered image-based quoting with price estimates from a single photo | Flutter · Firebase · AI |
+| 🛍️ **BigWin** | Online shopping app UI built from Figma designs | Flutter · Payments · REST APIs |
+| 🚚 **MBMC Logistics** | Logistics management with live tracking and streamlined dispatch | Flutter · Maps · REST APIs |
+| 🐔 **CQT** | Chicken Quality Tracker for inspections and quality reporting | Flutter · Firebase |
+| 🩸 **Pantho** | Drop Blood Bank, an online blood donation and collection app | Flutter · REST APIs · Figma |
+| 💧 **Hydreau** | Water intake tracking with gentle reminders | Flutter · Firebase |
 | 🌙 **Queit Poltroon** | All-in-one wellness companion for habits, mood, and routines | Flutter · Firebase |
-| 🗣️ **Lingua Manta** | Learn any language through bite-sized lessons | Flutter · Firebase |
-| 🧩 **Not Much** | A marketplace with everyday services in one place | Flutter · REST API |
+| 🗣️ **Lingua Manta** | Learn any language through bite-sized lessons | Flutter · Firebase · UI Design |
+| 🧩 **Not Much** | A marketplace with everyday services in one place | Flutter · REST APIs · Android |
 | 🎯 **Trivia Game** | Fast knowledge rounds with playful motion | Flutter · Android · iOS |
 
 ---
