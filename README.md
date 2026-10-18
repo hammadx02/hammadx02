@@ -3,7 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6ff2a5&height=220&section=header&text=Hammad%20Ali%20Shah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Engineer%20%7C%20Building%20Scalable%20Android%20%26%20iOS%20Apps&descSize=18&descAlignY=60&animation=fadeIn" alt="Hammad Ali Shah" />
 
 <img src="https://komarev.com/ghpvc/?username=hammadx02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<a href="https://github.com/hammadx02?tab=followers"><img src="https://img.shields.io/github/followers/hammadx02?style=flat&logo=github&color=6ff2a5&labelColor=191a1f" alt="Followers" /></a>
 <a href="https://github.com/hammadx02?tab=repositories"><img src="https://img.shields.io/github/stars/hammadx02?style=flat&logo=github&color=6ff2a5&labelColor=191a1f" alt="Stars" /></a>
 
 <br/><br/>
