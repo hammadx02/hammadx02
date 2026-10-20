@@ -67,6 +67,7 @@ I enjoy building useful, well-designed Android and iOS apps with Flutter. I've w
 | 🧱 **Wall AI** | AI-powered image-based quoting with price estimates from a single photo | Flutter · Firebase · AI |
 | 🛍️ **BigWin** | Online shopping app UI built from Figma designs | Flutter · Payments · REST APIs |
 | 🚚 **MBMC Logistics** | Logistics management with live tracking and streamlined dispatch | Flutter · Maps · REST APIs |
+| 🍽️ **Virtual Waiters** | A digital restaurant ordering experience that connects customers with restaurant services | Flutter · Firebase · AI · Maps |
 | 🐔 **CQT** | Chicken Quality Tracker for inspections and quality reporting | Flutter · Firebase |
 | 🩸 **Pantho** | Drop Blood Bank, an online blood donation and collection app | Flutter · REST APIs · Figma |
 | 💧 **Hydreau** | Water intake tracking with gentle reminders | Flutter · Firebase |
